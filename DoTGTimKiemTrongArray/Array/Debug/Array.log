@@ -1,0 +1,12 @@
+﻿  Array.cpp
+E:\CNTT\DataStruct\Array\Array\Array.cpp(97,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\CNTT\DataStruct\Array\Array\Array.cpp(99,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Array.vcxproj -> E:\CNTT\DataStruct\Array\Debug\Array.exe
